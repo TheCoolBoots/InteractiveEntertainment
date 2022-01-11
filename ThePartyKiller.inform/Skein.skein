@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0">
+  <generator>Windows Inform 7 6M62</generator>
+  <activeNode nodeId="node-69"/>
+  <item nodeId="node-0">
+    <command xml:space="preserve">ThePartyKiller</command>
+    <result xml:space="preserve">You are the ranger Thulmir and have just come across a stretch of forest that you have not explored in the decades of travelling across the continent. You naturally thought this impossible, as you are likely the greatest explorer or all time. Regardless, you are healthily skeptical of this forest and cautiously make your way through the dense undergrowth...&#x000A;&#x000A;ThePartyKiller&#x000A;An Interactive Fiction by Andrew Lai&#x000A;Release 1 / Serial number 220110 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;Forest Path&#x000A;This forest seems no different from the thousands of others you have traversed and catalogued in your time as an adventurer -- abundant in wildlife, the occasional magical beast charging towards you in a futile attempt to acquire dinner, patches of innocent-looking mushrooms, and more equally unexciting sights and sounds of the forest. However after a few hours of travelling, you hear something quite unusual.To the North you hear what can only be described as the echos of chaos. You hear the occasional breaking of glass, waves of laughter, explosions, and music reverberating through the trees.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1"/>
+      <child nodeId="node-6"/>
+      <child nodeId="node-13"/>
+      <child nodeId="node-27"/>
+      <child nodeId="node-62"/>
+      <child nodeId="node-65"/>
+      <child nodeId="node-69"/>
+    </children>
+  </item>
+  <item nodeId="node-1">
+    <command xml:space="preserve">N</command>
+    <result xml:space="preserve">As you walk towards the open doors, the bouncer blocks your way. He says, "I can't find your magic signature on the list. Come back later when you get an invitation." &#x000A; Just then you hear muffled mublings from the man roped around the pillar beside you. You turn towards him and somehow feel your minds connecting; you think he cast a spell to communicate with you. He says:&#x000A;&#x000A;Are you the famous ranger Thulmir? It must be you you stick out here like a sore thumb. Listen to me closely. This is my castle, my home, I started this but it's gotten out of hand. This party has been going on for 3 WHOLE YEARS and I have tried every POSSIBLE WAY to get these AWFUL people out of my house! I will grant you riches BEYOND COMPREHENSION if you can just SHUT THIS PARTY DOWN. I'm begging you. Please help me. I just want a good night's sleep. In my fluffy bed. With my stuffed rhino. Here, I'll implant your name into the guest list so you can get in. Do EVERYTHING IN YOUR POWER to shut down this party&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-2"/>
+    </children>
+  </item>
+  <item nodeId="node-2">
+    <command xml:space="preserve">S</command>
+    <result xml:space="preserve">Forest Path&#x000A;To the North you hear what can only be described as the echos of chaos. You hear the occasional breaking of glass, waves of laughter, explosions, and music reverberating through the trees.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-3"/>
+    </children>
+  </item>
+  <item nodeId="node-3">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Forest Path&#x000A;To the North you hear what can only be described as the echos of chaos. You hear the occasional breaking of glass, waves of laughter, explosions, and music reverberating through the trees.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-4"/>
+    </children>
+  </item>
+  <item nodeId="node-4">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-5"/>
+    </children>
+  </item>
+  <item nodeId="node-5">
+    <command xml:space="preserve">N</command>
+    <result xml:space="preserve">Parking lot&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-6">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Grand Entrance&#x000A;You push towards the noise and eventually come across a clearning in the forest. In front of you is something you never though you would find this deep in the forest: a Castle. It seems to be built with white stone with spires reaching up to the skies. The space in front of the castle is a massive parking lot, filled to the brim with chariots, carriages, and rickshaws pulled by everything from winged Gryffons to armored beetles the size of cows. They must have come through a portal to get here. Ahead of you, towards the castle's grand entrance, a steady stream of people are heading into the colossus-sized double doors and a steady stream of apparent drunks are heading out, propped up by servants and companions alike. You walk up to the castle entrance. A Bouncer stands guard beside the doors and strangely enough, a gnome is strapped snugly to one of the neighboring pillars by rope. There is a gag over his mouth. The open doors North of you seem welcoming.&#x000A;&#x000A;The Bouncer wears a crisp black tuxedo and has arms the size of tree trunks. He wears a party hat atop his head and carries a magical tablet.&#x000A;&#x000A;The Gnome is unconscious in his bindings. For some reason nobody pays him any attention.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-7"/>
+      <child nodeId="node-9"/>
+      <child nodeId="node-39"/>
+    </children>
+  </item>
+  <item nodeId="node-7">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">As you walk towards the open doors, the bouncer blocks your way. He says, "I can't find your magic signature on the list. Come back later when you get an invitation." &#x000A;&#x000A;Just then you hear muffled mublings from the man roped around the pillar beside you. You turn towards him and somehow feel your minds connecting; you think he cast a spell to communicate with you. Inside your head you hear:&#x000A;&#x000A;Are you the famous ranger Thulmir? It must be you - you stick out here like a sore thumb. Listen to me closely. This is my castle, my home, I started this party but it's gotten out of hand. Let me tell you, it has been going on for TWELVE WHOLE YEARS and I have tried every POSSIBLE WAY to get these AWFUL people out of my house! I will grant you riches BEYOND COMPREHENSION if you can just SHUT THIS PARTY DOWN. I'm begging you. Please help me. I just want a good night's sleep. In my fluffy bed. With my stuffed rhino. Here, I'll implant your name into the guest list so you can get in. Do EVERYTHING IN YOUR POWER to shut down this party&#x000A;&#x000A;The Gnome closes his eyes for a moment and you see a bead of sweat trickle down his cheek. He opens his eyes and continues: Ok I put you in the system, the bouncer should let you in now&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-8"/>
+      <child nodeId="node-26"/>
+      <child nodeId="node-36"/>
+    </children>
+  </item>
+  <item nodeId="node-8">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You feel bad for the Gnome, you should at least give it an effort&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-26">
+    <command xml:space="preserve">N</command>
+    <result xml:space="preserve">After much deliberation you decide to help the poor Gnome. You've crashed parties before, how hard can it be? As you turn towards the Entry Hall, the Gnome contacts you again:&#x000A;&#x000A;Wait wait wait! Get me down from here first!&#x000A;&#x000A;You decide he's already caused you enough trouble for you today. You end the telepathic link and continue on your way. Furious muffling can be heard from the Gnome's general direction.&#x000A;&#x000A;Grand Hall&#x000A;Spread before you is the party of a lifetime. The music surrounds you like a blanket, smothering your senses with its awesome power. Partygoers dressed in stunning costumes of brilliant color and variety peruse through groups of singers, dancers, drinkers, and chatters of equally dazzling quality.  Above you a magical glass pane filters light into the hall. The west wing of the hall holds the dance floor and the band, the north wing holds the game corner, and the east wing holds the bar and buffet.&#x000A;&#x000A;You stand there and take in your surroundings but all you can think about is why the hell you weren't invited. You also think it would be quite catastrophic in these close quarters if a brawl broke out.&#x000A;&#x000A;&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-36">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">After much deliberation you decide to help the poor Gnome. You've crashed parties before, how hard can it be? As you turn towards the Entry Hall, the Gnome contacts you again:&#x000A;&#x000A;Wait wait wait! Get me down from here first!&#x000A;&#x000A;You decide he's already caused you enough trouble for you today. You end the telepathic link and continue on your way. Furious muffling can be heard from the Gnome's general direction.&#x000A;&#x000A;Grand Hall&#x000A;Spread before you is the party of a lifetime. The music surrounds you like a blanket, smothering your senses with its awesome power. Partygoers dressed in stunning costumes of brilliant color and variety peruse through groups of singers, dancers, drinkers, and chatters of equally dazzling quality.  Above you a magical glass pane filters light into the hall. The west wing of the hall is the dance floor, the north wing holds the game corner, and the east wing holds the bar and buffet.&#x000A;&#x000A;You stand there and take in your surroundings but all you can think about is why the hell you weren't invited... You also think it would be quite catastrophic in these close quarters if a brawl broke out&#x000A;&#x000A;You can pick out a head that stands out from the rest of the guests. He appears to be an orc and he does not look pretty, despite his best efforts.&#x000A;&#x000A;You can also see some other partygoers here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-37"/>
+      <child nodeId="node-42"/>
+      <child nodeId="node-44"/>
+      <child nodeId="node-46"/>
+      <child nodeId="node-50"/>
+      <child nodeId="node-61"/>
+    </children>
+  </item>
+  <item nodeId="node-37">
+    <command xml:space="preserve">attack partygoers</command>
+    <result xml:space="preserve">Violence isn't the answer to this one.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-38"/>
+    </children>
+  </item>
+  <item nodeId="node-38">
+    <command xml:space="preserve">brawl partygoers</command>
+    <result xml:space="preserve">Violence isn't the answer to this one.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-42">
+    <command xml:space="preserve">attack Orc</command>
+    <result xml:space="preserve">Violence isn't the answer to this one.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-43"/>
+    </children>
+  </item>
+  <item nodeId="node-43">
+    <command xml:space="preserve">attack orc</command>
+    <result xml:space="preserve">Violence isn't the answer to this one.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-44">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-45"/>
+    </children>
+  </item>
+  <item nodeId="node-45">
+    <command xml:space="preserve">attack Orc</command>
+    <result xml:space="preserve">Violence isn't the answer to this one.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-46">
+    <command xml:space="preserve">attack orc</command>
+    <result xml:space="preserve">You walk up to the orc and immediately slap the drink he was enjoying to the ground. He turns to you and is initially confused. You can actually see the gears turning in his mind as the confusion turns to realization, and the realization turns to anger, and the anger turns to fury. He slams his fist into your face and you are sent flying backwards, slamming into a group of lovely ladies just trying to enjoy the evening. You notice you have just attracted the full attention of everyone around you. As if the crowd has practiced this, a ring of men appears around you and the orc as they give you space to exchange blows. One of the spectators speaks up:&#x000A;&#x000A;You know the drill, first to knock out your oppnent wins. Loser forefits their slot on the guest list. Aaaaaand FIGHT!&#x000A;&#x000A;Time slows down. You wonder, how did this happen? The ground vibrates as the orc begins charging towards you. Unafraid, you glance over your shoulder to see bags of coins changing hands as spectators predict the winner. When you turn back around, the Orc is just about breathing down your throat. Still in slow motion, you take a single perfect step to the right, steady yourself into a low martial stance, backed up by decades of training and practice, then lash out with your left leg, aiming for the orc's fragile kneecaps. The kick connects perfectly. The Orc's charge is promptly ended as his legs give out and his face slams into the floor with a resounding thud. Cheers erupt around you as coins once again change hands. Spectators crowd around you, slapping you on the back and giving their heartfelt congradulations. The party continues.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-47"/>
+      <child nodeId="node-48"/>
+    </children>
+  </item>
+  <item nodeId="node-47">
+    <command xml:space="preserve">attack orc</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-48">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Grand Hall&#x000A;Partygoers dressed in stunning costumes of brilliant color and variety peruse through groups of singers, dancers, drinkers, and chatters of equally dazzling quality.  Above you a magical glass pane filters light into the hall. The west wing of the hall is the dance floor, the north wing holds the game corner, and the east wing holds the bar and buffet.&#x000A;&#x000A;You stand there and take in your surroundings but all you can think about is why the hell you weren't invited..&#x000A;&#x000A;You can see some other partygoers here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-49"/>
+    </children>
+  </item>
+  <item nodeId="node-49">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Dance Floor&#x000A;You stroll over to the dance floor where a group of bards play music for the party guests, who are approximating dancing on the wooden floors.&#x000A;&#x000A;There are five musicians on the bandstand. You think you recognize the song they are currently playing. Who was it by? The Pillbugs?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-50">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Dance Floor&#x000A;You stroll over to the dance floor where a group of bards play music for the party guests, who are approximating dancing on the wooden floors.&#x000A;&#x000A;The bards are playing the standard instruments you expect to find in a house band - a lute, a full drumset, a trumpet, a bass, a tuba.&#x000A;&#x000A;There are five musicians on the bandstand. You think you recognize the song they are currently playing. Who was it by? The Pillbugs?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-51"/>
+      <child nodeId="node-54"/>
+    </children>
+  </item>
+  <item nodeId="node-51">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Dance Floor&#x000A;You stroll over to the dance floor where a group of bards play music for the party guests, who are approximating dancing on the wooden floors.&#x000A;&#x000A;There are five musicians on the bandstand. You think you recognize the song they are currently playing. Who was it by? The Pillbugs?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-52"/>
+    </children>
+  </item>
+  <item nodeId="node-52">
+    <command xml:space="preserve">attack instruments</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-53"/>
+    </children>
+  </item>
+  <item nodeId="node-53">
+    <command xml:space="preserve">attack bandInstruments</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-54">
+    <command xml:space="preserve">ask bards about hi</command>
+    <result xml:space="preserve">You walk up to the bards and ask them politely to stop the music. They respond by cranking up the volume of their instruments&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-55"/>
+    </children>
+  </item>
+  <item nodeId="node-55">
+    <command xml:space="preserve">punch bards</command>
+    <result xml:space="preserve">You don't think the crowd would take to well to hurting the bards.&#x000A; You think a better idea would be to break their instruments instead.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-56"/>
+    </children>
+  </item>
+  <item nodeId="node-56">
+    <command xml:space="preserve">attack instruments</command>
+    <result xml:space="preserve">You calmly walk up to the stage, starting at the left, and move from bard to bard, taking and smashing each of their instruments one by one. You can hear a collective gasp from the crowd as they realize what you are doing. After the last instrument is smashed into pieces, the drone of the party dies down to a whisper as the guests notice the absence of music. The relative silence is just becoming unbearable when the band leader steps forward and raises his fist up into the air. After a dramatic pause... he pulls out his powerful tenor from his soul and begins a powerful rendition of a fan favorite, Rohemian Bapsody. His band mates join him, then a woman in the front row lends her voice to the acapella, then her friends join her, then the whole dance floor, and soon enough, the thousands of party guests sing together in unison. It is truly inspiring. You forget what your mission is and have no choice but to join in on the singing. You are snapped back into reality when you are shoved off the stage by someone (you didn't catch who it was as you were caught up in the magic of the song), and you realize a barrier has been put up between you and the stage. From a secret passageway, servants bring out backup instruments just as majestic as the now destroyed ones.&#x000A;&#x000A;After a truly inspiring rendition of Rohemian Bapsody, the band re-dons their instruments and picks up right where they left off before the acapella. The party continues.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-57"/>
+    </children>
+  </item>
+  <item nodeId="node-57">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Dance Floor&#x000A;You stroll over to the dance floor where a group of bards play music for the party guests, who are approximating dancing on the wooden floors.&#x000A;&#x000A;The band members have by now managed to get out their spares but these instruments sound just as good as the damaged ones.&#x000A;&#x000A;A shimmering magical barrier separates the bards from the dance floor. It appears this isn't their first rodeo.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-58"/>
+    </children>
+  </item>
+  <item nodeId="node-58">
+    <command xml:space="preserve">attack bards</command>
+    <result xml:space="preserve">There's no getting through that barrier without some powerful counter spells. Spells which you do not have the slighest inkling about.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-59"/>
+    </children>
+  </item>
+  <item nodeId="node-59">
+    <command xml:space="preserve">attack instruments</command>
+    <result xml:space="preserve">There's no getting through that barrier without some powerful counter spells. Spells which you do not have the slighest inkling about.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-60"/>
+    </children>
+  </item>
+  <item nodeId="node-60">
+    <command xml:space="preserve">ask bards about silence</command>
+    <result xml:space="preserve">You walk up to the bards and ask them politely to stop the music. They respond by cranking up the volume of their instruments&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-61">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Bar And Buffet&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-9">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You're curious as to what's going on inside, turning back now would be a waste&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-10"/>
+    </children>
+  </item>
+  <item nodeId="node-10">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-11"/>
+    </children>
+  </item>
+  <item nodeId="node-11">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-12"/>
+    </children>
+  </item>
+  <item nodeId="node-12">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">As you walk towards the open doors, the bouncer blocks your way. He says, "I can't find your magic signature on the list. Come back later when you get an invitation." &#x000A; Just then you hear muffled mublings from the man roped around the pillar beside you. You turn towards him and somehow feel your minds connecting; you think he cast a spell to communicate with you. He says:&#x000A;&#x000A;Are you the famous ranger Thulmir? It must be you you stick out here like a sore thumb. Listen to me closely. This is my castle, my home, I started this but it's gotten out of hand. This party has been going on for 3 WHOLE YEARS and I have tried every POSSIBLE WAY to get these AWFUL people out of my house! I will grant you riches BEYOND COMPREHENSION if you can just SHUT THIS PARTY DOWN. I'm begging you. Please help me. I just want a good night's sleep. In my fluffy bed. With my stuffed rhino. Here, I'll implant your name into the guest list so you can get in. Do EVERYTHING IN YOUR POWER to shut down this party&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-39">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-40"/>
+    </children>
+  </item>
+  <item nodeId="node-40">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">As you walk towards the open doors, the bouncer blocks your way. He says, "I can't find your magic signature on the list. Come back later when you get an invitation." &#x000A;&#x000A;Just then you hear muffled mublings from the man roped around the pillar beside you. You turn towards him and somehow feel your minds connecting; you think he cast a spell to communicate with you. Inside your head you hear:&#x000A;&#x000A;Are you the famous ranger Thulmir? It must be you - you stick out here like a sore thumb. Listen to me closely. This is my castle, my home, I started this party but it's gotten out of hand. Let me tell you, it has been going on for TWELVE WHOLE YEARS and I have tried every POSSIBLE WAY to get these AWFUL people out of my house! I will grant you riches BEYOND COMPREHENSION if you can just SHUT THIS PARTY DOWN. I'm begging you. Please help me. I just want a good night's sleep. In my fluffy bed. With my stuffed rhino. Here, I'll implant your name into the guest list so you can get in. Do EVERYTHING IN YOUR POWER to shut down this party&#x000A;&#x000A;The Gnome closes his eyes for a moment and you see a bead of sweat trickle down his cheek. He opens his eyes and continues: Ok I put you in the system, the bouncer should let you in now&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-41"/>
+    </children>
+  </item>
+  <item nodeId="node-41">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">After much deliberation you decide to help the poor Gnome. You've crashed parties before, how hard can it be? As you turn towards the Entry Hall, the Gnome contacts you again:&#x000A;&#x000A;Wait wait wait! Get me down from here first!&#x000A;&#x000A;You decide he's already caused you enough trouble for you today. You end the telepathic link and continue on your way. Furious muffling can be heard from the Gnome's general direction.&#x000A;&#x000A;Grand Hall&#x000A;Spread before you is the party of a lifetime. The music surrounds you like a blanket, smothering your senses with its awesome power. Partygoers dressed in stunning costumes of brilliant color and variety peruse through groups of singers, dancers, drinkers, and chatters of equally dazzling quality.  Above you a magical glass pane filters light into the hall. The west wing of the hall holds the dance floor and the band, the north wing holds the game corner, and the east wing holds the bar and buffet.&#x000A;&#x000A;You stand there and take in your surroundings but all you can think about is why the hell you weren't invited. You also think it would be quite catastrophic in these close quarters if a brawl broke out.&#x000A;&#x000A;You can pick out a head that stands out from the rest of the partygoers. It appears to be an orc and he does not look pretty, despite his best efforts.&#x000A;&#x000A;You can also see some partygoers here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-13">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Your ranger senses indicate there isn't anything interesting over there, just more boring forest&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-14"/>
+      <child nodeId="node-17"/>
+    </children>
+  </item>
+  <item nodeId="node-14">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">There isn't anything interesting over there, just more forest&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-15"/>
+    </children>
+  </item>
+  <item nodeId="node-15">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">There isn't anything interesting over there, just more forest&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-16"/>
+    </children>
+  </item>
+  <item nodeId="node-16">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Grand Entrance&#x000A;You push towards the noise and eventually come across a clearning in the forest. In front of you is something you never though you would find this deep in the forest: a Castle. It seems to be built with white stone with spires reaching up to the skies. The space in front of the castle is a massive parking lot, filled to the brim with chariots, carriages, and rickshaws pulled by everything from winged Gryffons to armored beetles the size of cows. They must have come through a portal to get here. Ahead of you, towards the castle's grand entrance, a steady stream of people are heading into the colossus-sized double doors and a steady stream of apparent drunks are heading out, propped up by servants and companions alike.You walk up to the castle entrance. A Bouncer stands guard beside the doors and strangely enough, a gnome is strapped snugly to one of the neighboring pillars by rope. There is a gag over his mouth. The open doors North of you seem welcoming.&#x000A;&#x000A;The Bouncer wears a crisp black tuxedo and has arms the size of tree trunks. He wears a party hat atop his head and carries a magical tablet.&#x000A;&#x000A;The Gnome is unconscious in his bindings. For some reason nobody pays him any attention.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-17">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Grand Entrance&#x000A;You push towards the noise and eventually come across a clearning in the forest. In front of you is something you never though you would find this deep in the forest: a Castle. It seems to be built with white stone with spires reaching up to the skies. The space in front of the castle is a massive parking lot, filled to the brim with chariots, carriages, and rickshaws pulled by everything from winged Gryffons to armored beetles the size of cows. They must have come through a portal to get here. Ahead of you, towards the castle's grand entrance, a steady stream of people are heading into the colossus-sized double doors and a steady stream of apparent drunks are heading out, propped up by servants and companions alike.You walk up to the castle entrance. A Bouncer stands guard beside the doors and strangely enough, a gnome is strapped snugly to one of the neighboring pillars by rope. There is a gag over his mouth. The open doors North of you seem welcoming.&#x000A;&#x000A;The Bouncer wears a crisp black tuxedo and has arms the size of tree trunks. He wears a party hat atop his head and carries a magical tablet.&#x000A;&#x000A;The Gnome is unconscious in his bindings. For some reason nobody pays him any attention.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-18"/>
+    </children>
+  </item>
+  <item nodeId="node-18">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You're curious as to what's going on inside, turning back now would be a waste&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-19"/>
+    </children>
+  </item>
+  <item nodeId="node-19">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You're curious as to what's going on inside, turning back now would be a waste&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-20"/>
+    </children>
+  </item>
+  <item nodeId="node-20">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You're curious as to what's going on inside, turning back now would be a waste&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-21"/>
+    </children>
+  </item>
+  <item nodeId="node-21">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">As you walk towards the open doors, the bouncer blocks your way. He says, "I can't find your magic signature on the list. Come back later when you get an invitation." &#x000A;&#x000A; Just then you hear muffled mublings from the man roped around the pillar beside you. You turn towards him and somehow feel your minds connecting; you think he cast a spell to communicate with you. He says:&#x000A;&#x000A;Are you the famous ranger Thulmir? It must be you you stick out here like a sore thumb. Listen to me closely. This is my castle, my home, I started this but it's gotten out of hand. This party has been going on for 3 WHOLE YEARS and I have tried every POSSIBLE WAY to get these AWFUL people out of my house! I will grant you riches BEYOND COMPREHENSION if you can just SHUT THIS PARTY DOWN. I'm begging you. Please help me. I just want a good night's sleep. In my fluffy bed. With my stuffed rhino. Here, I'll implant your name into the guest list so you can get in. Do EVERYTHING IN YOUR POWER to shut down this party&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-22"/>
+    </children>
+  </item>
+  <item nodeId="node-22">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You feel bad for the Gnome, you should at least give it an effort&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-23"/>
+    </children>
+  </item>
+  <item nodeId="node-23">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You feel bad for the Gnome, you should at least give it an effort&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-24"/>
+    </children>
+  </item>
+  <item nodeId="node-24">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You feel bad for the Gnome, you should at least give it an effort&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-25"/>
+    </children>
+  </item>
+  <item nodeId="node-25">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Entry Hall&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-27">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Your ranger senses indicate there isn't anything interesting over there, just more boring forest&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-28"/>
+      <child nodeId="node-32"/>
+    </children>
+  </item>
+  <item nodeId="node-28">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Grand Entrance&#x000A;You push towards the noise and eventually come across a clearning in the forest. In front of you is something you never though you would find this deep in the forest: a Castle. It seems to be built with white stone with spires reaching up to the skies. The space in front of the castle is a massive parking lot, filled to the brim with chariots, carriages, and rickshaws pulled by everything from winged Gryffons to armored beetles the size of cows. They must have come through a portal to get here. Ahead of you, towards the castle's grand entrance, a steady stream of people are heading into the colossus-sized double doors and a steady stream of apparent drunks are heading out, propped up by servants and companions alike. You walk up to the castle entrance. A Bouncer stands guard beside the doors and strangely enough, a gnome is strapped snugly to one of the neighboring pillars by rope. There is a gag over his mouth. The open doors North of you seem welcoming.&#x000A;&#x000A;The Bouncer wears a crisp black tuxedo and has arms the size of tree trunks. He wears a party hat atop his head and carries a magical tablet.&#x000A;&#x000A;The Gnome is unconscious in his bindings. For some reason nobody pays him any attention.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-29"/>
+    </children>
+  </item>
+  <item nodeId="node-29">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">As you walk towards the open doors, the bouncer blocks your way. He says, "I can't find your magic signature on the list. Come back later when you get an invitation." &#x000A;&#x000A;Just then you hear muffled mublings from the man roped around the pillar beside you. You turn towards him and somehow feel your minds connecting; you think he cast a spell to communicate with you. Inside your head you hear:&#x000A;&#x000A;Are you the famous ranger Thulmir? It must be you - you stick out here like a sore thumb. Listen to me closely. This is my castle, my home, I started this party but it's gotten out of hand. Let me tell you, it has been going on for 3 WHOLE YEARS and I have tried every POSSIBLE WAY to get these AWFUL people out of my house! I will grant you riches BEYOND COMPREHENSION if you can just SHUT THIS PARTY DOWN. I'm begging you. Please help me. I just want a good night's sleep. In my fluffy bed. With my stuffed rhino. Here, I'll implant your name into the guest list so you can get in. Do EVERYTHING IN YOUR POWER to shut down this party&#x000A;&#x000A;The Gnome closes his eyes for a moment and you see a bead of sweat trickle down his cheek. He opens his eyes and continues: Ok I put you in the system, the bouncer should let you in now&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-30"/>
+    </children>
+  </item>
+  <item nodeId="node-30">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You feel bad for the Gnome, you should at least give it an effort&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-31"/>
+    </children>
+  </item>
+  <item nodeId="node-31">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">After much deliberation you decide to help the poor Gnome. You've crashed parties before, how hard can it be? As you turn towards the Entry Hall, the Gnome contacts you again:&#x000A;&#x000A;Wait wait wait! Get me down from here first!&#x000A;&#x000A;You decide he's already caused you enough trouble for you today. You end the telepathic link and continue on your way. Furious muffling can be heard from the Gnome's general direction.&#x000A;&#x000A;Grand Hall&#x000A;Spread before you is the party of a lifetime. The music surrounds you like a blanket, smothering your senses with its awesome power. Partygoers dressed in stunning costumes of brilliant color and variety peruse through groups of singers, dancers, drinkers, and chatters of equally dazzling quality.  Above you a magical glass pane filters light into the hall. The west wing of the hall holds the dance floor and the band, the north wing holds the game corner, and the east wing holds the bar and buffet.&#x000A;&#x000A;You stand there and take in your surroundings but all you can think about is why the hell you weren't invited. You also think it would be quite catastrophic in these close quarters if a brawl broke out.&#x000A;&#x000A;You can see Partygoer here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-32">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Your ranger senses indicate there isn't anything interesting over there, just more boring forest&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-33"/>
+    </children>
+  </item>
+  <item nodeId="node-33">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Grand Entrance&#x000A;You push towards the noise and eventually come across a clearning in the forest. In front of you is something you never though you would find this deep in the forest: a Castle. It seems to be built with white stone with spires reaching up to the skies. The space in front of the castle is a massive parking lot, filled to the brim with chariots, carriages, and rickshaws pulled by everything from winged Gryffons to armored beetles the size of cows. They must have come through a portal to get here. Ahead of you, towards the castle's grand entrance, a steady stream of people are heading into the colossus-sized double doors and a steady stream of apparent drunks are heading out, propped up by servants and companions alike. You walk up to the castle entrance. A Bouncer stands guard beside the doors and strangely enough, a gnome is strapped snugly to one of the neighboring pillars by rope. There is a gag over his mouth. The open doors North of you seem welcoming.&#x000A;&#x000A;The Bouncer wears a crisp black tuxedo and has arms the size of tree trunks. He wears a party hat atop his head and carries a magical tablet.&#x000A;&#x000A;The Gnome is unconscious in his bindings. For some reason nobody pays him any attention.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-34"/>
+    </children>
+  </item>
+  <item nodeId="node-34">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">As you walk towards the open doors, the bouncer blocks your way. He says, "I can't find your magic signature on the list. Come back later when you get an invitation." &#x000A;&#x000A;Just then you hear muffled mublings from the man roped around the pillar beside you. You turn towards him and somehow feel your minds connecting; you think he cast a spell to communicate with you. Inside your head you hear:&#x000A;&#x000A;Are you the famous ranger Thulmir? It must be you - you stick out here like a sore thumb. Listen to me closely. This is my castle, my home, I started this party but it's gotten out of hand. Let me tell you, it has been going on for TWELVE WHOLE YEARS and I have tried every POSSIBLE WAY to get these AWFUL people out of my house! I will grant you riches BEYOND COMPREHENSION if you can just SHUT THIS PARTY DOWN. I'm begging you. Please help me. I just want a good night's sleep. In my fluffy bed. With my stuffed rhino. Here, I'll implant your name into the guest list so you can get in. Do EVERYTHING IN YOUR POWER to shut down this party&#x000A;&#x000A;The Gnome closes his eyes for a moment and you see a bead of sweat trickle down his cheek. He opens his eyes and continues: Ok I put you in the system, the bouncer should let you in now&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-35"/>
+    </children>
+  </item>
+  <item nodeId="node-35">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">After much deliberation you decide to help the poor Gnome. You've crashed parties before, how hard can it be? As you turn towards the Entry Hall, the Gnome contacts you again:&#x000A;&#x000A;Wait wait wait! Get me down from here first!&#x000A;&#x000A;You decide he's already caused you enough trouble for you today. You end the telepathic link and continue on your way. Furious muffling can be heard from the Gnome's general direction.&#x000A;&#x000A;Grand Hall&#x000A;Spread before you is the party of a lifetime. The music surrounds you like a blanket, smothering your senses with its awesome power. Partygoers dressed in stunning costumes of brilliant color and variety peruse through groups of singers, dancers, drinkers, and chatters of equally dazzling quality.  Above you a magical glass pane filters light into the hall. The west wing of the hall holds the dance floor and the band, the north wing holds the game corner, and the east wing holds the bar and buffet.&#x000A;&#x000A;You stand there and take in your surroundings but all you can think about is why the hell you weren't invited. You also think it would be quite catastrophic in these close quarters if a brawl broke out.&#x000A;&#x000A;You can see some partygoers here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-62">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  repeating crossbow&#x000A;  vial&#x000A;    sleeping potion&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-63"/>
+    </children>
+  </item>
+  <item nodeId="node-63">
+    <command xml:space="preserve">pour vial</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-64"/>
+    </children>
+  </item>
+  <item nodeId="node-64">
+    <command xml:space="preserve">pour</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-65">
+    <command xml:space="preserve">take sleeping potion</command>
+    <result xml:space="preserve">You hear Professor Oak's voice echo in your head. There is a time and place for everything...&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-66"/>
+    </children>
+  </item>
+  <item nodeId="node-66">
+    <command xml:space="preserve">use sleeping potion</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-67"/>
+    </children>
+  </item>
+  <item nodeId="node-67">
+    <command xml:space="preserve">hold sleeping potion</command>
+    <result xml:space="preserve">You hear Professor Oak's voice echo in your head. There is a time and place for everything...&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-68"/>
+    </children>
+  </item>
+  <item nodeId="node-68">
+    <command xml:space="preserve">examine sleeping potion</command>
+    <result xml:space="preserve">You see nothing special about sleeping potion.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-69">
+    <command xml:space="preserve">examine sleeping potion</command>
+    <result xml:space="preserve">You see nothing special about sleeping potion.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+</Skein>
